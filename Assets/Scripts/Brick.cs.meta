@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 7abd7ed5498336f4387149c622765b0b
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Crack: {fileID: 8300000, guid: bfeaa5046782a1b44831ab5aaaf05a5a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
